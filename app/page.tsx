@@ -171,14 +171,14 @@ export default function Home() {
             <div className="group bg-gradient-to-br from-cream-50 to-cream-100 p-8 rounded-3xl border-3 border-terracotta-200 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 hover:border-terracotta-300 hover:rotate-1 cursor-pointer">
               <div className="text-6xl mb-4 opacity-50 text-terracotta-400 animate-pulse">"</div>
               <p className="text-lg text-terracotta-400 mb-4 italic leading-relaxed">
-                Tharad created such a safe, warm environment. I finally felt heard and understood. The sessions have genuinely changed how I approach my anxiety.
+                Anushka created such a safe, warm environment. I finally felt heard and understood. The sessions have genuinely changed how I approach my anxiety.
               </p>
               <p className="text-terracotta-400 font-bold">— Second-year Psychology Student</p>
             </div>
             <div className="group bg-gradient-to-br from-coral-50 to-coral-100 p-8 rounded-3xl border-3 border-coral-200 shadow-xl hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 hover:border-coral-300 hover:-rotate-1 cursor-pointer">
               <div className="text-6xl mb-4 opacity-50 text-terracotta-400 animate-pulse animation-delay-200">"</div>
               <p className="text-lg text-terracotta-400 mb-4 italic leading-relaxed">
-                I was nervous about therapy, but Tharad made it feel so natural and comfortable. It's like talking to a friend who also happens to be incredibly insightful.
+                I was nervous about therapy, but Anushka made it feel so natural and comfortable. It's like talking to a friend who also happens to be incredibly insightful.
               </p>
               <p className="text-terracotta-400 font-bold">— First-year Engineering Student</p>
             </div>

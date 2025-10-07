@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Quicksand, Nunito, Poppins } from "next/font/google";
 import "./globals.css";
 import Navigation from "./components/Navigation";
+import Footer from "./components/Footer";
 
 const quicksand = Quicksand({
   variable: "--font-quicksand",
@@ -38,6 +39,7 @@ export default function RootLayout({
       >
         <Navigation />
         {children}
+        <Footer />
       </body>
     </html>
   );
